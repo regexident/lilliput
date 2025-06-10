@@ -14,7 +14,7 @@ edition = "2021"
 [workspace.dependencies]
 criterion = { version = "0.6", features = ["html_reports"] }
 proptest = { version = "1.6.0" }
-proptest-derive = { version = "0.5.1" }
+proptest-derive = { version = "0.6.0" }
 rand = "0.9.0"
 rand_xorshift = "0.4.0"
 serde = { version = "1.0.197", default-features = false }
